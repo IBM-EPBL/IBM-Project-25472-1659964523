@@ -1,6 +1,6 @@
 # IBM-Project-25472-1659964523
 
-<h1>Corporate Employee Attrition Analytics<\h1>
+<h1>Corporate Employee Attrition Analytics </h1>
 
 <h2>TEAM LEADER</h2>
 <br>
@@ -9,8 +9,11 @@ Y.RANJANAA
 <h2>TEAM MEMBERS</h2>
 <br>
 P.JEEVITHA
+<br>
 B.NIVEDHA
+<br>
 G.SHWETHA
+<br>
 S.SNEHAA
 
 <h2>DESCRIPTION</h2>
